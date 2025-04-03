@@ -1,4 +1,4 @@
-Python Cloud Function Demo for GCP
+Python GCP Cloud Function demo
 
 This function is using Flask and Function Framework for testing.
 
